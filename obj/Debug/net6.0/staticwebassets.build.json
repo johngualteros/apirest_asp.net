@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BdMt50M5MgKJG0WNYe93UmeKb3+GW5dxMxzacl4Pu48=",
+  "Source": "apirest_asp.net",
+  "BasePath": "_content/apirest_asp.net",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
